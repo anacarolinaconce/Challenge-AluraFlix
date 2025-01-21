@@ -1,0 +1,32 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+      "category": "Frontend",
+      "image": "https://via.placeholder.com/150",
+      "videoUrl": "https://www.youtube.com/embed/ZY3-MFxVdEw?si=ZH90w4oBWw1koM4i"
+    },
+    {
+      "id": 2,
+      "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+      "category": "Backend",
+      "image": "https://via.placeholder.com/150",
+      "videoUrl": "https://www.youtube.com/embed/fiPfvylj6rk?si=PlFE2O27jsJt6NaY"
+    },
+    {
+      "id": 3,
+      "title": "Guia de Carreira: Inteligência Artificial (IA) | #HipstersPontoTube",
+      "category": "Inovação",
+      "image": "https://via.placeholder.com/150",
+      "videoUrl": "https://www.youtube.com/embed/5QzXPjqQt7E?si=jxl4UtI7OAo-IZg"
+    },
+    {
+      "id": 4,
+      "title": "O que são métodos ágeis? #HipstersPontoTube",
+      "category": "Gestão",
+      "image": "https://via.placeholder.com/150",
+      "videoUrl": "https://www.youtube.com/embed/j5mCirZD-0s?si=KLQqHHY8TDrKNIH2"
+    }
+  ]
+}

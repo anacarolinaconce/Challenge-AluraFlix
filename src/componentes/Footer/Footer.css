@@ -1,0 +1,8 @@
+footer{
+    background-color: black;
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    font-family: var(--font-primary);
+    text-align: center;
+}
